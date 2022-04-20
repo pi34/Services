@@ -67,7 +67,7 @@ class UserProfileActivity : BaseActivity(), View.OnClickListener {
             et_first_name.isEnabled = false
             et_first_name.setText(mUserDetails.firstName)
 
-            et_last_name.isEnabled = false
+//            et_last_name.isEnabled = false
             et_last_name.setText(mUserDetails.lastName)
 
             et_email.isEnabled = false
